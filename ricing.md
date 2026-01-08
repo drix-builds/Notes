@@ -1,0 +1,28 @@
+# Notes on ricing
+* remove auto generated comments
+* set up monitors
+    - monitor = [DP-1], 2560x1440@144,1
+* wallpaper
+    * hyprpaper.conf
+        * wallpaper
+            * `{`
+            `monitor = DP-1`
+            `path = /home/drix/Pictures/Wallpapers/dmytro-yarish-yNTrQwvYjno-unsplash.jpg`
+            `fit_mode = cover`
+        }`
+    - autorun at start
+        `exec-once = hyprpaper`
+* waybar
+    - config.jsonc & style.css
+    - script to reload waybar:
+    ---
+        #!/bin/bash 
+        killall -9 waybar
+        waybar &
+        chmod +x launch.sh - makes executible 
+        launch.sh
+
+
+    
+
+
