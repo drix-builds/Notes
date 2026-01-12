@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "HomeServer"
             }
+          },
+          {
+            "id": "45203c32a64190e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3D printing tools.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "3D printing tools"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,10 +227,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "774b9f18444b55f9",
+  "active": "45203c32a64190e4",
   "lastOpenFiles": [
-    "Gridfinity.md",
     "HomeServer.md",
+    "3D printing tools.md",
+    "Gridfinity.md",
     "ricing.md",
     "Pasted image 20260111201317.png",
     "todo.md"
