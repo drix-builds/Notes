@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "ricing"
             }
+          },
+          {
+            "id": "36e3b65177226212",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a826099c33a3af17",
+  "active": "36e3b65177226212",
   "lastOpenFiles": [
     "ricing.md",
     "todo.md",
