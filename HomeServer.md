@@ -1,3 +1,8 @@
+what do i want it to do?
+- jellyfin
+- arr stack
+- photobackups via syncthing
+
 https://makerworld.com/en/models/1294480-lab-rax-10-server-rack-5u#profileId-1325352
 Lab rax server rack - 5U
 
