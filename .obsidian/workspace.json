@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "HomeServer"
             }
+          },
+          {
+            "id": "774b9f18444b55f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gridfinity.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gridfinity"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "36e3b65177226212",
+  "active": "774b9f18444b55f9",
   "lastOpenFiles": [
-    "ricing.md",
     "HomeServer.md",
+    "Gridfinity.md",
+    "ricing.md",
     "Pasted image 20260111201317.png",
     "todo.md"
   ]
