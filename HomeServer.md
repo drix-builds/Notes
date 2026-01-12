@@ -13,3 +13,6 @@ Needs
 - Intel 11th generation CPU i5 or i7
 - 32 gb of ram
 - 2.5 GbE
+
+smart home setup
+https://www.youtube.com/watch?v=JJIWVQo0cXg

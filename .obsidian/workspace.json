@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gridfinity.md",
+                "file": "HomeServer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Gridfinity"
+              "title": "HomeServer"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "774b9f18444b55f9",
   "lastOpenFiles": [
-    "HomeServer.md",
     "Gridfinity.md",
+    "HomeServer.md",
     "ricing.md",
     "Pasted image 20260111201317.png",
     "todo.md"
