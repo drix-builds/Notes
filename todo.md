@@ -1,1 +1,8 @@
 - [ ] xbox sounds on open
+- [ ] ender 3  upgrades
+- [ ] service now refresher
+- [ ] macropad remake
+- [ ] gridfinity
+- [ ] schedule blocking
+- [ ] switch laptop over to cachyOS
+- [ ] 
