@@ -3,3 +3,8 @@ Lab rax server rack - 5U
 
 https://www.youtube.com/watch?v=5E0M4s17r-U
 modular rack
+
+Needs 
+- Intel 11th generation CPU i5 or i7
+- 32 gb of ram
+- 2.5 GbE
