@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "3D printing tools"
             }
+          },
+          {
+            "id": "87f89a55c6ae21bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ender 3 upgrades.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Ender 3 upgrades"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,13 +241,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "45203c32a64190e4",
+  "active": "87f89a55c6ae21bb",
   "lastOpenFiles": [
+    "todo.md",
     "HomeServer.md",
-    "3D printing tools.md",
     "Gridfinity.md",
+    "Ender 3 upgrades.md",
+    "3D printing tools.md",
     "ricing.md",
-    "Pasted image 20260111201317.png",
-    "todo.md"
+    "Pasted image 20260111201317.png"
   ]
 }
