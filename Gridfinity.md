@@ -1,3 +1,4 @@
+tags: [[3d printing]] [[projects]]
 https://www.tooltrace.ai/
 https://gridfinitygenerator.com/
 https://gridfinity.xyz/specification/
@@ -10,3 +11,4 @@ magnets at the bottom
 ### Ideas
 - kitchen utensil holder
 - toolbox with modular compartments
+

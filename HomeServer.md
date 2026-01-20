@@ -1,3 +1,4 @@
+tags: [[projects]]
 what do i want it to do?
 - jellyfin
 - arr stack

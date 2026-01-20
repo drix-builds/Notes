@@ -1,3 +1,5 @@
+tags: [[3d printing]] [[projects]]
+
 - [ ] bl touch
 - [ ] dual z axis
 - [ ] all metal feeder assembly

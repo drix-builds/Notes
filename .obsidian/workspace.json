@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random yt video knowlege.md",
+                "file": "tags/projects.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "random yt video knowlege"
+              "title": "projects"
             },
             "group": "879940e2832cf722"
           }
@@ -36,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random yt video knowlege.md",
+                "file": "tags/projects.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "random yt video knowlege"
+              "title": "projects"
             },
             "group": "879940e2832cf722"
           }
@@ -210,15 +210,19 @@
   },
   "active": "9c4731409e233dfc",
   "lastOpenFiles": [
-    "ricing.md",
-    "3D printing tools.md",
+    "tags/3d printing.md",
     "HomeServer.md",
-    "random yt video knowlege.md",
     "Gridfinity.md",
     "todo.md",
-    "Untitled",
     "ideas.md",
+    "ricing.md",
+    "tags/linux.md",
     "Ender 3 upgrades.md",
+    "tags/projects.md",
+    "3D printing tools.md",
+    "tags",
+    "random yt video knowlege/how cracks work in general.md",
+    "random yt video knowlege",
     "Pasted image 20260111201317.png"
   ]
 }
