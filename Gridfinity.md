@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=e3EhJJlWwws
 tool inserts print seperately for a different color
 label printer for printing... labels 
 magnets at the bottom
+
+### Ideas
+- kitchen utensil holder
+- toolbox with modular compartments

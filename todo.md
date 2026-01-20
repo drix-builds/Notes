@@ -2,7 +2,7 @@
 - [ ] ender 3  upgrades
 - [ ] service now refresher
 - [ ] macropad remake
-- [ ] gridfinity
+- [ ] [[gridfinity]]
 - [ ] schedule blocking
 - [ ] switch laptop over to cachyOS
 - [ ] look into affinity suite for linux
