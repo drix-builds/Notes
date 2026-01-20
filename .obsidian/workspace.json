@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "todo"
             }
           }
         ]
@@ -186,12 +186,12 @@
   },
   "active": "9c4731409e233dfc",
   "lastOpenFiles": [
+    "ideas.md",
     "HomeServer.md",
     "Gridfinity.md",
     "Ender 3 upgrades.md",
     "3D printing tools.md",
     "todo.md",
-    "ideas.md",
     "ricing.md",
     "random yt video knowlege.md",
     "Pasted image 20260111201317.png"
