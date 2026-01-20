@@ -8,77 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a826099c33a3af17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ricing.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ricing"
-            }
-          },
-          {
-            "id": "36e3b65177226212",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeServer.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HomeServer"
-            }
-          },
-          {
-            "id": "774b9f18444b55f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HomeServer.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "HomeServer"
-            }
-          },
-          {
-            "id": "45203c32a64190e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3D printing tools.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "3D printing tools"
-            }
-          },
-          {
-            "id": "87f89a55c6ae21bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ender 3 upgrades.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ender 3 upgrades"
-            }
-          },
-          {
-            "id": "248abe64662cc74b",
+            "id": "9c4731409e233dfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -91,8 +21,7 @@
               "title": "ideas"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 214.5
   },
   "right": {
     "id": "82d94b5ca9a6f8ac",
@@ -255,15 +184,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "248abe64662cc74b",
+  "active": "9c4731409e233dfc",
   "lastOpenFiles": [
-    "Ender 3 upgrades.md",
-    "ideas.md",
-    "todo.md",
     "HomeServer.md",
     "Gridfinity.md",
+    "Ender 3 upgrades.md",
     "3D printing tools.md",
+    "todo.md",
+    "ideas.md",
     "ricing.md",
+    "random yt video knowlege.md",
     "Pasted image 20260111201317.png"
   ]
 }

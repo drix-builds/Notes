@@ -5,4 +5,5 @@
 - [ ] gridfinity
 - [ ] schedule blocking
 - [ ] switch laptop over to cachyOS
-- [ ] 
+- [ ] look into affinity suite for linux
+	- [ ] [this](https://github.com/seapear/AffinityOnLinux?tab=readme-ov-file)
