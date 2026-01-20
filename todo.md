@@ -1,5 +1,5 @@
 - [ ] xbox sounds on open
-- [ ] ender 3  upgrades
+- [ ] [[Ender 3 upgrades]]
 - [ ] service now refresher
 - [ ] macropad remake
 - [ ] [[gridfinity]]
@@ -8,3 +8,5 @@
 - [ ] switch laptop over to cachyOS
 - [ ] look into affinity suite for linux
 	- [ ] [this](https://github.com/seapear/AffinityOnLinux?tab=readme-ov-file)
+- [ ] clean room nd shower
+- [ ] make daily routine in todoist

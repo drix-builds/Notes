@@ -6,6 +6,7 @@
       {
         "id": "e2c9b53199e5edda",
         "type": "tabs",
+        "dimension": 74.24242424242425,
         "children": [
           {
             "id": "d01257924395b06b",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "readinglist.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "readinglist"
             },
             "group": "d4dfdfea9303e8a6"
           }
@@ -27,6 +28,7 @@
       {
         "id": "96e35d3ada4affcb",
         "type": "tabs",
+        "dimension": 25.757575757575758,
         "children": [
           {
             "id": "0133162ef33beef5",
@@ -34,12 +36,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "readinglist.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "readinglist"
             },
             "group": "d4dfdfea9303e8a6"
           }
@@ -208,6 +210,7 @@
   },
   "active": "d01257924395b06b",
   "lastOpenFiles": [
+    "todo.md",
     "readinglist.md",
     "ricing.md",
     "ideas.md",
@@ -215,7 +218,6 @@
     "Gridfinity.md",
     "Ender 3 upgrades.md",
     "3D printing tools.md",
-    "todo.md",
     "tags/3d printing.md",
     "tags/projects.md",
     "sources-resources",
