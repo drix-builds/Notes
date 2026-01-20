@@ -8,18 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c4731409e233dfc",
+            "id": "d01257924395b06b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ender 3 upgrades.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ender 3 upgrades"
-            }
+              "title": "todo"
+            },
+            "group": "d4dfdfea9303e8a6"
+          }
+        ]
+      },
+      {
+        "id": "96e35d3ada4affcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0133162ef33beef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            },
+            "group": "d4dfdfea9303e8a6"
           }
         ]
       }
@@ -184,19 +206,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c4731409e233dfc",
+  "active": "0133162ef33beef5",
   "lastOpenFiles": [
+    "ricing.md",
+    "ideas.md",
+    "HomeServer.md",
+    "Gridfinity.md",
+    "Ender 3 upgrades.md",
+    "3D printing tools.md",
+    "todo.md",
     "tags/3d printing.md",
     "tags/projects.md",
     "sources-resources",
-    "HomeServer.md",
-    "Gridfinity.md",
-    "todo.md",
-    "ideas.md",
-    "ricing.md",
     "tags/linux.md",
-    "Ender 3 upgrades.md",
-    "3D printing tools.md",
     "tags",
     "random yt video knowlege/how cracks work in general.md",
     "random yt video knowlege",
