@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git hub.md",
+                "file": "Blender.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "git hub"
+              "title": "Blender"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "355ec742873ef2ce",
   "lastOpenFiles": [
-    "Blender.md",
     "git hub.md",
+    "Blender.md",
     "Untitled.blend",
     "Untitled.blend@",
     "hotkeys for blender.md",
