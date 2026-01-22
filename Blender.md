@@ -3,7 +3,3 @@ tags: [[3d modeling]]
 
 # donut tutorial
 edit mode to change state and move verticies
-
-something
-
-x
