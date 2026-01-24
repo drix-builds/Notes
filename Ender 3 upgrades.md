@@ -1,9 +1,9 @@
 tags: [[3d printing]] [[projects]]
 
-- [ ] bl touch
+- [x] bl touch
 - [ ] dual z axis
 - [ ] all metal feeder assembly
 	- [ ] https://a.co/d/9VcaCqn
 - [ ] compression/die spring
-- [ ] silent board
+- [x] silent board
 - [ ] 

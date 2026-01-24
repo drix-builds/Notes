@@ -5,7 +5,7 @@
 - [ ] [[gridfinity]]
 - [ ] schedule blocking
 - [ ] [[HomeServer]]
-- [ ] switch laptop over to cachyOS
+- [x] switch laptop over to cachyOS
 - [ ] look into affinity suite for linux
 	- [ ] [this](https://github.com/seapear/AffinityOnLinux?tab=readme-ov-file)
 - [ ] clean room nd shower

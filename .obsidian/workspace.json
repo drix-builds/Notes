@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender.md",
-                "mode": "source",
+                "file": "Ender 3 upgrades.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Blender"
+              "title": "Ender 3 upgrades"
             }
           }
         ],
@@ -201,14 +201,14 @@
   },
   "active": "355ec742873ef2ce",
   "lastOpenFiles": [
-    "git hub.md",
+    "todo.md",
     "Blender.md",
+    "git hub.md",
     "Untitled.blend",
     "Untitled.blend@",
     "hotkeys for blender.md",
     "tags/3d modeling.md",
     "readinglist.md",
-    "todo.md",
     "ricing.md",
     "ideas.md",
     "HomeServer.md",
