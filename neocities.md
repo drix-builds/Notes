@@ -28,3 +28,18 @@ Cooking
 Personal
 - personal blog :3
 
+interests
+- tech
+	- projects
+	- tech talk
+- art
+	- music talk
+	- movie talk
+	- pictures
+	- drawings
+- cooking
+	- cooking talk
+	- recipies
+- personal blogging
+
+all the ''talk'' posts are just blog posts but they are tagged to  their topic to be categorized as such
