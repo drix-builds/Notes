@@ -7,9 +7,12 @@ drix-lab.neocities.org
 - [ ] photos - digicam
 - [ ] blog posts
 - [ ] project showcase
+- [ ] button wall
+- [ ] guestbook
+- [ ] 
 
 menu bar:
-categories > art > tech > blog > cooking
+categories > art > tech  > cooking > personal
 Art 
 - drawings
 - movie talk
@@ -19,7 +22,9 @@ Tech
 - tech i like
 - retro
 Cooking
-- 
-Blog
-- blog :3
+- showcase
+- recipies
+- food talk
+Personal
+- personal blog :3
 
