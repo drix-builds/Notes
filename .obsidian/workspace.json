@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3D printing tools.md",
+                "file": "ideas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "3D printing tools"
+              "title": "ideas"
             }
           }
         ],
@@ -201,20 +201,20 @@
   },
   "active": "355ec742873ef2ce",
   "lastOpenFiles": [
-    "Ender 3 upgrades.md",
-    "todo.md",
-    "Blender.md",
+    "hotkeys for blender.md",
+    "HomeServer.md",
+    "Gridfinity.md",
     "git hub.md",
+    "Ender 3 upgrades.md",
+    "Blender.md",
+    "3D printing tools.md",
+    "todo.md",
     "Untitled.blend",
     "Untitled.blend@",
-    "hotkeys for blender.md",
     "tags/3d modeling.md",
     "readinglist.md",
     "ricing.md",
     "ideas.md",
-    "HomeServer.md",
-    "Gridfinity.md",
-    "3D printing tools.md",
     "tags/3d printing.md",
     "tags/projects.md",
     "sources-resources",
