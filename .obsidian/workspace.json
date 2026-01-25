@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
+                "file": "Ender 3 upgrades.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "Ender 3 upgrades"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "355ec742873ef2ce",
   "lastOpenFiles": [
+    "ideas.md",
     "hotkeys for blender.md",
     "HomeServer.md",
     "Gridfinity.md",
@@ -214,7 +215,6 @@
     "tags/3d modeling.md",
     "readinglist.md",
     "ricing.md",
-    "ideas.md",
     "tags/3d printing.md",
     "tags/projects.md",
     "sources-resources",
