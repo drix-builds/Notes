@@ -4,3 +4,6 @@ i'm thinking maybe something coding or art related?
 maybe i can make a full sized keyboard (or like 65%) with a PCB and custom case
 
 keyboard/macropad should have a scren that's tilted up
+
+bark-lab
+has a mascot of a lab, he is the bark lab lab (everyone lab and cheer)
