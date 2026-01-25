@@ -9,7 +9,8 @@ drix-lab.neocities.org
 - [ ] project showcase
 - [ ] button wall
 - [ ] guestbook
-- [ ] 
+- [ ] web rings
+- [ ] update log
 
 menu bar:
 categories > art > tech  > cooking > personal
@@ -53,3 +54,5 @@ hi i'm drix. a 28 year old trans-masc dog, thing. i like old tech stuff, making 
 
 blog feed:
 maybe should have all blog posts with tags. if you click on a tag it would take you to the specified page for the topic.
+
+
