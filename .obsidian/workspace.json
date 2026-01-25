@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "ideas"
             }
+          },
+          {
+            "id": "e24d2971396c85de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "neocities.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "neocities"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +213,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "355ec742873ef2ce",
+  "active": "e24d2971396c85de",
   "lastOpenFiles": [
-    "Ender 3 upgrades.md",
     "ideas.md",
+    "neocities.md",
+    "Ender 3 upgrades.md",
     "hotkeys for blender.md",
     "HomeServer.md",
     "Gridfinity.md",
