@@ -6,4 +6,4 @@ tags: [[3d printing]] [[projects]]
 	- [ ] https://a.co/d/9VcaCqn
 - [ ] compression/die spring
 - [x] silent board
-- [ ] 
+- [ ] klipper

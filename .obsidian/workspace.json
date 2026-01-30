@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "neocities.md",
-                "mode": "source",
+                "file": "Ender 3 upgrades.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "neocities"
+              "title": "Ender 3 upgrades"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,17 +212,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "e24d2971396c85de",
+  "active": "11e1f3c7d0459341",
   "lastOpenFiles": [
-    "ideas.md",
-    "neocities.md",
     "Ender 3 upgrades.md",
+    "3D printing tools.md",
+    "neocities.md",
+    "ideas.md",
     "hotkeys for blender.md",
     "HomeServer.md",
     "Gridfinity.md",
     "git hub.md",
     "Blender.md",
-    "3D printing tools.md",
     "todo.md",
     "Untitled.blend",
     "Untitled.blend@",
