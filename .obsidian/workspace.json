@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git hub.md",
+                "file": "Macropad.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "git hub"
+              "title": "Macropad"
             }
           },
           {
@@ -229,11 +229,11 @@
   },
   "active": "5718beba052afbd8",
   "lastOpenFiles": [
+    "git hub.md",
     "Macropad.md",
     "todo.md",
     "HomeServer.md",
     "Gridfinity.md",
-    "git hub.md",
     "Ender 3 upgrades.md",
     "Blender.md",
     "3D printing tools.md",
