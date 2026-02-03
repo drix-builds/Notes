@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender.md",
+                "file": "todo.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "todo"
+            }
+          },
+          {
+            "id": "5718beba052afbd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Macropad.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Blender"
+              "title": "Macropad"
             }
           },
           {
@@ -49,7 +63,8 @@
               "title": "Ender 3 upgrades"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,18 +227,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "11e1f3c7d0459341",
+  "active": "5718beba052afbd8",
   "lastOpenFiles": [
+    "todo.md",
+    "Macropad.md",
+    "HomeServer.md",
+    "Gridfinity.md",
+    "git hub.md",
     "Ender 3 upgrades.md",
+    "Blender.md",
     "3D printing tools.md",
     "neocities.md",
     "ideas.md",
     "hotkeys for blender.md",
-    "HomeServer.md",
-    "Gridfinity.md",
-    "git hub.md",
-    "Blender.md",
-    "todo.md",
     "Untitled.blend",
     "Untitled.blend@",
     "tags/3d modeling.md",
