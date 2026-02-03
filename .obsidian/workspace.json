@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macropad.md",
+                "file": "git hub.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Macropad"
+              "title": "git hub"
             }
           },
           {
@@ -229,8 +229,8 @@
   },
   "active": "5718beba052afbd8",
   "lastOpenFiles": [
-    "todo.md",
     "Macropad.md",
+    "todo.md",
     "HomeServer.md",
     "Gridfinity.md",
     "git hub.md",
