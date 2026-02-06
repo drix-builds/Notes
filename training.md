@@ -1,0 +1,7 @@
+- comptia a+ study
+	- heavy networking study
+- powershell study
+	- automation
+- active directory 
+	- user management
+	- 
