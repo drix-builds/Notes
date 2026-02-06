@@ -4,4 +4,6 @@
 	- automation
 - active directory 
 	- user management
-	- 
+- home server
+	- linux server
+	- networking and whatnot
