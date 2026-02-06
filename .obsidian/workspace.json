@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "training"
             }
+          },
+          {
+            "id": "612126a7e1df0552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HomeServer.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "HomeServer"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,14 +213,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "355ec742873ef2ce",
+  "active": "612126a7e1df0552",
   "lastOpenFiles": [
+    "ideas.md",
+    "Macropad.md",
+    "tags/projects.md",
+    "HomeServer.md",
+    "training.md",
     "3D printing tools.md",
     "hotkeys for blender.md",
     "Blender.md",
-    "training.md",
     "neocities.md",
-    "Macropad.md",
     "git hub.md",
     "Untitled.blend",
     "Untitled.blend@",
@@ -214,12 +231,9 @@
     "readinglist.md",
     "todo.md",
     "ricing.md",
-    "ideas.md",
-    "HomeServer.md",
     "Gridfinity.md",
     "Ender 3 upgrades.md",
     "tags/3d printing.md",
-    "tags/projects.md",
     "sources-resources",
     "tags/linux.md",
     "tags",
