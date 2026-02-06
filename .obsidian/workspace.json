@@ -13,30 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "5718beba052afbd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macropad.md",
+                "file": "Blender.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Macropad"
+              "title": "Blender"
             }
           },
           {
-            "id": "d6dbf66c2283699a",
+            "id": "355ec742873ef2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,37 +34,9 @@
               "icon": "lucide-file",
               "title": "training"
             }
-          },
-          {
-            "id": "355ec742873ef2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ideas"
-            }
-          },
-          {
-            "id": "e24d2971396c85de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ender 3 upgrades.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Ender 3 upgrades"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,25 +199,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d6dbf66c2283699a",
+  "active": "355ec742873ef2ce",
   "lastOpenFiles": [
-    "Macropad.md",
-    "training.md",
-    "git hub.md",
-    "todo.md",
-    "HomeServer.md",
-    "Gridfinity.md",
-    "Ender 3 upgrades.md",
-    "Blender.md",
     "3D printing tools.md",
-    "neocities.md",
-    "ideas.md",
     "hotkeys for blender.md",
+    "Blender.md",
+    "training.md",
+    "neocities.md",
+    "Macropad.md",
+    "git hub.md",
     "Untitled.blend",
     "Untitled.blend@",
     "tags/3d modeling.md",
     "readinglist.md",
+    "todo.md",
     "ricing.md",
+    "ideas.md",
+    "HomeServer.md",
+    "Gridfinity.md",
+    "Ender 3 upgrades.md",
     "tags/3d printing.md",
     "tags/projects.md",
     "sources-resources",
