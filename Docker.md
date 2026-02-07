@@ -4,3 +4,10 @@
 2. sudo apt install docker.io
 
 ### Manage as non-root user
+- add user account to the docker group
+	- sudo group add docker
+	- sudo usermod -aG docker $USER / drix
+	- test with: docker run hello-world
+- pull image
+	- docker pull ___
+	- 
