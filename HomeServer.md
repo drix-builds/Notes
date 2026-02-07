@@ -19,7 +19,6 @@ smart home setup
 https://www.youtube.com/watch?v=JJIWVQo0cXg
 
 - dockage
-- immich
 - memos
 - linkding / karakeep
 - uptime kuma
@@ -27,8 +26,12 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 - glance home page
 - tailscale
 - pi hole
-- klipper + fluidd
-- next cloud
 - docmost
 - NGINX Proxy Manager
-- grafana
+
+
+
+- next cloud
+- immich
+ - grafana
+ - klipper + fluidd
