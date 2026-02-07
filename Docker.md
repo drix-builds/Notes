@@ -10,4 +10,5 @@
 	- test with: docker run hello-world
 - pull image
 	- docker pull ___
-	- 
+- containers will be disposable by default
+- 
