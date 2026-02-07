@@ -18,3 +18,9 @@ Needs
 smart home setup
 https://www.youtube.com/watch?v=JJIWVQo0cXg
 
+- dockage
+- immich
+- memos
+- linkding
+- uptime kuma
+- 
