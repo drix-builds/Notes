@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -213,11 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "612126a7e1df0552",
+  "active": "355ec742873ef2ce",
   "lastOpenFiles": [
+    "home server/Home Server setup V1.md",
     "home server/Docker.md",
     "home server/HomeServer.md",
-    "home server/Home Server setup V1.md",
     "neocities.md",
     "Macropad.md",
     "tags/learning.md",
