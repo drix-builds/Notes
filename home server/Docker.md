@@ -1,3 +1,5 @@
+tags: [[linux]] [[learning]]
+
 ### Installation
 ##### Ubunto Server
 1. Remember to update using: sudo apt update
@@ -14,4 +16,8 @@
 - let containers access the file system with bind mounts
 - docker run -it --name (container name) --volume /home/drix:/mnt
 
-[[linux]] [learning]
+### Compose
+
+- groups of containers that work together managed as a single unit
+- containers share a network
+- 

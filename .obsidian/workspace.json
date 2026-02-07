@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home server/HomeServer.md",
+                "file": "home server/Docker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "HomeServer"
+              "title": "Docker"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home server/Home Server setup V1.md",
+                "file": "home server/Docker.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home Server setup V1"
+              "title": "Docker"
             }
           }
         ],
@@ -215,19 +215,20 @@
   },
   "active": "612126a7e1df0552",
   "lastOpenFiles": [
-    "tags/linux.md",
-    "home server/Docker.md",
-    "home server/Home Server setup V1.md",
     "home server/HomeServer.md",
+    "home server/Docker.md",
+    "neocities.md",
+    "Macropad.md",
+    "tags/learning.md",
+    "home server/Home Server setup V1.md",
+    "tags/linux.md",
     "Blender.md",
     "training.md",
     "home server",
     "ideas.md",
-    "Macropad.md",
     "tags/projects.md",
     "3D printing tools.md",
     "hotkeys for blender.md",
-    "neocities.md",
     "git hub.md",
     "Untitled.blend",
     "Untitled.blend@",
