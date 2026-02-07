@@ -23,4 +23,7 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 - memos
 - linkding
 - uptime kuma
+- vault warden
+- glance home page
+- tailscale
 - 
