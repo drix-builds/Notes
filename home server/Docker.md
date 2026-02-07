@@ -20,4 +20,6 @@ tags: [[linux]] [[learning]]
 
 - groups of containers that work together managed as a single unit
 - containers share a network
-- 
+- containers have an IP on that created subnet
+- YAML specifies names and images for containers
+
