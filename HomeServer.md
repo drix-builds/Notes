@@ -31,3 +31,4 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 - next cloud
 - docmost
 - NGINX Proxy Manager
+- grafana
