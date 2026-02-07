@@ -19,23 +19,31 @@ smart home setup
 https://www.youtube.com/watch?v=JJIWVQo0cXg
 
 
-- memos
-- linkding / karakeep
 
-- tailscale
 
-- docmost
-- NGINX Proxy Manager
+
+
+
+
 
 first phase:
 - pi hole
 - dockage
 - uptime kuma
 - vault warden
+- tailscale
+- NGINX Proxy Manager
 - glance home page
 
-
+later:
+- memos
+- linkding / karakeep
+- docmost
 - next cloud
-- immich
+- 
  - grafana
- - klipper + fluidd
+ - media
+	 - jellyfin
+	 - arr stack
+	 - 
+ - klipper + fluidd (separate)
