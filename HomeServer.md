@@ -27,3 +27,7 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 - glance home page
 - tailscale
 - pi hole
+- klipper + fluidd
+- next cloud
+- docmost
+- NGINX Proxy Manager
