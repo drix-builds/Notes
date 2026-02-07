@@ -32,7 +32,9 @@ first phase:
 - NGINX Proxy
 - Pi-hole
 - Tailscale
-- Uptime 
+- Uptime Kuma
+- Vaultwarden
+- Glance
 
 later:
 - memos
