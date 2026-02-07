@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 - dockage
 - immich
 - memos
-- linkding / hoarder
+- linkding / karakeep
 - uptime kuma
 - vault warden
 - glance home page
