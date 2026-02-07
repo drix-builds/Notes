@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home server/Docker.md",
+                "file": "home server/Home Server setup V1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Home Server setup V1"
             }
           }
         ],
@@ -215,9 +215,9 @@
   },
   "active": "612126a7e1df0552",
   "lastOpenFiles": [
+    "home server/Docker.md",
     "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
-    "home server/Docker.md",
     "neocities.md",
     "Macropad.md",
     "tags/learning.md",
