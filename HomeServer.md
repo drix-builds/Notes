@@ -27,23 +27,21 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 
 
 first phase:
-- pi hole
+- docker+compose
 - dockage
-- uptime kuma
-- vault warden
-- tailscale
-- NGINX Proxy Manager
-- glance home page
+- NGINX Proxy
+- Pi-hole
+- Tailscale
+- Uptime 
 
 later:
 - memos
 - linkding / karakeep
 - docmost
 - next cloud
-- 
- - grafana
+ - grafanasss
  - media
 	 - jellyfin
 	 - arr stack
-	 - 
+	 - immich
  - klipper + fluidd (separate)
