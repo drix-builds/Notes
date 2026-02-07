@@ -14,5 +14,6 @@ Services :
 	- password management
 - [Glance](https://github.com/glanceapp/glance)
 	- GUI
-
+- [karakeep](https://github.com/karakeep-app/karakeep)
+	- bookmark everything
 

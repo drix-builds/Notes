@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "training.md",
+                "file": "home server/HomeServer.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "training"
+              "title": "HomeServer"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
+                "file": "home server/Home Server setup V1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "Home Server setup V1"
             }
           }
         ],
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5,
-    "collapsed": true
+    "width": 214.5
   },
   "right": {
     "id": "82d94b5ca9a6f8ac",
@@ -204,26 +203,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "612126a7e1df0552",
   "lastOpenFiles": [
-    "HomeServer.md",
     "home server/HomeServer.md",
+    "training.md",
     "home server/Home Server setup V1.md",
     "home server",
     "ideas.md",
     "Macropad.md",
     "tags/projects.md",
-    "training.md",
     "3D printing tools.md",
     "hotkeys for blender.md",
     "Blender.md",
