@@ -26,4 +26,4 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 - vault warden
 - glance home page
 - tailscale
-- 
+- pi hole
