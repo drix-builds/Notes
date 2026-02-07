@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Home Server setup V1"
             }
-          },
-          {
-            "id": "2bd5a4a433e9663d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Docker"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,13 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bd5a4a433e9663d",
+  "active": "612126a7e1df0552",
   "lastOpenFiles": [
+    "tags/linux.md",
+    "home server/Docker.md",
     "home server/Home Server setup V1.md",
     "home server/HomeServer.md",
     "Blender.md",
-    "Docker.md",
-    "home server/training.md",
+    "training.md",
     "home server",
     "ideas.md",
     "Macropad.md",
@@ -252,7 +239,6 @@
     "Ender 3 upgrades.md",
     "tags/3d printing.md",
     "sources-resources",
-    "tags/linux.md",
     "tags",
     "random yt video knowlege/how cracks work in general.md",
     "random yt video knowlege",

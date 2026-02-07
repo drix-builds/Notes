@@ -14,5 +14,4 @@
 - let containers access the file system with bind mounts
 - docker run -it --name (container name) --volume /home/drix:/mnt
 
-### Networking
-- 
+[[linux]] [learning]
