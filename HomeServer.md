@@ -18,17 +18,21 @@ Needs
 smart home setup
 https://www.youtube.com/watch?v=JJIWVQo0cXg
 
-- dockage
+
 - memos
 - linkding / karakeep
-- uptime kuma
-- vault warden
-- glance home page
+
 - tailscale
-- pi hole
+
 - docmost
 - NGINX Proxy Manager
 
+first phase:
+- pi hole
+- dockage
+- uptime kuma
+- vault warden
+- glance home page
 
 
 - next cloud
