@@ -3,7 +3,7 @@ https://docs.docker.com/get-started/docker-overview/
 
 ### Installation
 ##### Ubunto Server
-1. Remember to update using: sudo apt update
+1. Remember to update using: sudo apt update / sudo apt upgrade
 2. sudo apt install docker.io
 
 ### Manage as non-root user
