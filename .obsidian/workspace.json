@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "d2cd7e4ee794e911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "612126a7e1df0552",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "355ec742873ef2ce",
+  "active": "d2cd7e4ee794e911",
   "lastOpenFiles": [
-    "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
+    "Untitled.md",
+    "home server/HomeServer.md",
     "home server/Docker.md",
     "neocities.md",
     "Macropad.md",
