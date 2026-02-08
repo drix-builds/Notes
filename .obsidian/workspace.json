@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSL Certs + DNS.md",
+                "file": "home server/Home Server setup V1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "SSL Certs + DNS"
+              "title": "Home Server setup V1"
             }
           },
           {
@@ -229,8 +229,8 @@
   },
   "active": "d2cd7e4ee794e911",
   "lastOpenFiles": [
-    "home server/Home Server setup V1.md",
     "SSL Certs + DNS.md",
+    "home server/Home Server setup V1.md",
     "home server/HomeServer.md",
     "home server/Docker.md",
     "neocities.md",
