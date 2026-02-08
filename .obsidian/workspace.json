@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "8a167e0fdc253b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NGINX.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "NGINX"
+            }
+          },
+          {
             "id": "612126a7e1df0552",
             "type": "leaf",
             "state": {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,10 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2cd7e4ee794e911",
+  "active": "8a167e0fdc253b48",
   "lastOpenFiles": [
-    "SSL Certs + DNS.md",
     "home server/Home Server setup V1.md",
+    "NGINX.md",
+    "SSL Certs + DNS.md",
     "home server/HomeServer.md",
     "home server/Docker.md",
     "neocities.md",
