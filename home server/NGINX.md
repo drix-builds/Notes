@@ -1,2 +1,1 @@
-SLL Cert
-DNS 
+Switched to cloudflare
