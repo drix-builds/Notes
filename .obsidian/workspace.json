@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NGINX.md",
+                "file": "home server/NGINX.md",
                 "mode": "source",
                 "source": true
               },
@@ -244,7 +244,7 @@
   "active": "8a167e0fdc253b48",
   "lastOpenFiles": [
     "home server/Home Server setup V1.md",
-    "NGINX.md",
+    "home server/NGINX.md",
     "SSL Certs + DNS.md",
     "home server/HomeServer.md",
     "home server/Docker.md",
