@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home server/NGINX.md",
+                "file": "home server/Home Server setup V1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "NGINX"
+              "title": "Home Server setup V1"
             }
           },
           {
@@ -243,8 +243,8 @@
   },
   "active": "8a167e0fdc253b48",
   "lastOpenFiles": [
-    "home server/Home Server setup V1.md",
     "home server/NGINX.md",
+    "home server/Home Server setup V1.md",
     "SSL Certs + DNS.md",
     "home server/HomeServer.md",
     "home server/Docker.md",
