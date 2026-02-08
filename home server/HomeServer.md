@@ -19,14 +19,14 @@ smart home setup
 https://www.youtube.com/watch?v=JJIWVQo0cXg
 
 first phase:
-- docker+compose
-- dockage
-- NGINX Proxy
-- Pi-hole
-- Tailscale
-- Uptime Kuma
-- Vaultwarden
-- Glance
+- [x] docker+compose
+- [ ]  dockage
+- [x] NGINX Proxy
+- [ ] Pi-hole
+- [ ] Tailscale
+- [ ]  Uptime Kuma
+- [ ] Vaultwarden
+- [x]  Glance
 
 later:
 - memos
