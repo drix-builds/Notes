@@ -1,5 +1,5 @@
 OS:  Ubuntu server
-IP: 192.168.1222
+IP: 192.168.1.222
 Services :
 - docker+[compose](https://docs.docker.com/compose/)
 - [dockage](https://github.com/louislam/dockge)
