@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "training.md",
+                "file": "quick ref.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "training"
+              "title": "quick ref"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "355ec742873ef2ce",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "training.md",
+    "conflict-files-obsidian-git.md",
     "home server/NGINX.md",
     "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
@@ -218,7 +218,7 @@
     "3D printing tools.md",
     "hotkeys for blender.md",
     "neocities.md",
-    "git hub.md",
+    "quick ref.md",
     "Untitled.blend",
     "Untitled.blend@",
     "tags/3d modeling.md",
