@@ -1,13 +1,8 @@
-Switched to cloudflare
+# IN ORDER FOR THIS TO WORK WITH CGNAT
 
-# Add cloudflare gpg key
-sudo mkdir -p --mode=0755 /usr/share/keyrings
-curl -fsSL https://pkg.cloudflare.com/cloudflare-public-v2.gpg | sudo tee /usr/share/keyrings/cloudflare-public-v2.gpg >/dev/null
-
-# Add this repo to your apt repositories
-echo 'deb [signed-by=/usr/share/keyrings/cloudflare-public-v2.gpg] https://pkg.cloudflare.com/cloudflared any main' | sudo tee /etc/apt/sources.list.d/cloudflared.list
-
-# install cloudflared
-sudo apt-get update && sudo apt-get install cloudflared
+- install nginx
+- install cloudflared 
+- make sure both are on the same network and managed by dockge
+- disable ipv6 on the router for LAN access
 
 sudo cloudflared service install eyJhIjoiMDU1Zjc0Yzk4N2ZjNjI4N2M2OTY5NzJmNGMzNWUwZjIiLCJ0IjoiNDMwODE0NjQtYTk0MC00MDUxLThmYTctMjdjODMzNDlkOGJmIiwicyI6IlpHUTFPVGhrWmpBdFlXUmxZeTAwTnpneExUaGhNR1l0WmprMk16WmtNemc0T1RrdyJ9
