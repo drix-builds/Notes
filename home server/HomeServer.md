@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=JJIWVQo0cXg
 
 first phase:
 - [x] docker+compose
-- [ ]  dockage
+- [x]  dockage
 - [x] NGINX Proxy
 - [ ] Pi-hole
 - [ ] Tailscale
