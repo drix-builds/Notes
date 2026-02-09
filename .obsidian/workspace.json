@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quick ref.md",
+                "file": "ideas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "quick ref"
+              "title": "ideas"
+            }
+          },
+          {
+            "id": "f916d3d9136e2da8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "home server/glance.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "glance"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,8 +213,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "355ec742873ef2ce",
+  "active": "f916d3d9136e2da8",
   "lastOpenFiles": [
+    "ideas.md",
+    "home server/glance.md",
+    "quick ref.md",
     "training.md",
     "conflict-files-obsidian-git.md",
     "home server/NGINX.md",
@@ -211,14 +228,12 @@
     "tags/learning.md",
     "home server",
     "SSL Certs + DNS.md",
-    "ideas.md",
     "Macropad.md",
     "tags/projects.md",
     "HomeServer.md",
     "3D printing tools.md",
     "hotkeys for blender.md",
     "neocities.md",
-    "quick ref.md",
     "Untitled.blend",
     "Untitled.blend@",
     "tags/3d modeling.md",
@@ -231,7 +246,6 @@
     "sources-resources",
     "tags/linux.md",
     "tags",
-    "random yt video knowlege/how cracks work in general.md",
     "random yt video knowlege",
     "Pasted image 20260111201317.png"
   ]

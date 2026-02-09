@@ -9,3 +9,5 @@ bark-lab
 has a mascot of a lab, he is the bark lab lab (everyone clap and cheer)
 
 a gallery for a website that uses a script to automatically take images from a folder and place them on the webpage to view 
+
+calibre web server + [this widget](https://github.com/glanceapp/community-widgets/blob/main/widgets/calibre-web-stats/README.md)
