@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quick ref.md",
+                "file": "home server/NGINX.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "quick ref"
+              "title": "NGINX"
             }
           }
         ],
@@ -215,15 +215,15 @@
   },
   "active": "f916d3d9136e2da8",
   "lastOpenFiles": [
-    "home server/glance.md",
-    "ideas.md",
-    "quick ref.md",
-    "training.md",
-    "conflict-files-obsidian-git.md",
-    "home server/NGINX.md",
     "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
     "home server/Docker.md",
+    "home server/glance.md",
+    "quick ref.md",
+    "ideas.md",
+    "training.md",
+    "conflict-files-obsidian-git.md",
+    "home server/NGINX.md",
     "Blender.md",
     "tags/learning.md",
     "home server",
