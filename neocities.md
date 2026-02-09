@@ -1,3 +1,4 @@
+[[projects]]
 drix-lab.neocities.org
 - [ ] about
 - [ ] favs

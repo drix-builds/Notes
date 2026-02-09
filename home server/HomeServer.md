@@ -1,7 +1,7 @@
 tags: [[projects]]
 what do i want it to do?
 - jellyfin
-- arr stack
+- arr stackcd c
 - photobackups via syncthing
 
 https://makerworld.com/en/models/1294480-lab-rax-10-server-rack-5u#profileId-1325352
@@ -18,23 +18,15 @@ Needs
 smart home setup
 https://www.youtube.com/watch?v=JJIWVQo0cXg
 
-
-
-
-
-
-
-
-
 first phase:
-- docker+compose
-- dockage
-- NGINX Proxy
-- Pi-hole
-- Tailscale
-- Uptime Kuma
-- Vaultwarden
-- Glance
+- [x] docker+compose
+- [ ]  dockage
+- [x] NGINX Proxy
+- [ ] Pi-hole
+- [ ] Tailscale
+- [ ]  Uptime Kuma
+- [ ] Vaultwarden
+- [x]  Glance
 
 later:
 - memos
