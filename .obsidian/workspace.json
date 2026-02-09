@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "HomeServer"
             }
+          },
+          {
+            "id": "ea19abec909800cc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "612126a7e1df0552",
+  "active": "ea19abec909800cc",
   "lastOpenFiles": [
     "ideas.md",
     "Macropad.md",
