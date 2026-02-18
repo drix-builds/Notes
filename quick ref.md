@@ -4,3 +4,6 @@
 	- kitty +kitten ssh drix@192.168.1.222   
     - https://technoyard.com/2025/07/25/the-step-by-step-guide-to-nginx-proxy-manager-with-cloudflare-ssl-perfect-for-your-homelab/
     - att router access code /6?&0*%4/?
+- update cachyos mirrors
+	- sudo pacman -Sy --needed archlinux-keyring cachyos-keyring
+sudo pacman -Syu
