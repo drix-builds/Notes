@@ -7,3 +7,8 @@
 - update cachyos mirrors
 	- sudo pacman -Sy --needed archlinux-keyring cachyos-keyring
 sudo pacman -Syu
+
+### minecraft chunk edit
+~/Desktop/j/zulu21.32.17-ca-fx-jre21.0.2-linux_x64/bin
+sudo dd if=/home/drix/Downloads/archlinux-2026.02.01-x86_64.iso of=/dev/sdc1 bs=4M status=progress oflag=sync
+

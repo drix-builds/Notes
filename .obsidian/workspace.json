@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer specs.md",
+                "file": "quick ref.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Computer specs"
+              "title": "quick ref"
             }
           },
           {
@@ -215,8 +215,8 @@
   },
   "active": "7ee106a7950ed62b",
   "lastOpenFiles": [
-    "home server/NGINX.md",
     "Computer specs.md",
+    "home server/NGINX.md",
     "ideas.md",
     "Hyprland.md",
     "ricing.md",
