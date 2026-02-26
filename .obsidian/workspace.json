@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "ideas"
             }
-          },
-          {
-            "id": "f916d3d9136e2da8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quick ref.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "quick ref"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,14 +198,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "f916d3d9136e2da8",
+  "active": "11e1f3c7d0459341",
   "lastOpenFiles": [
-    "todo.md",
-    "quick ref.md",
+    "ideas.md",
+    "Hyprland.md",
+    "ricing.md",
     "readinglist.md",
+    "quick ref.md",
+    "todo.md",
     "neocities.md",
     "Macropad.md",
-    "ideas.md",
     "hotkeys for blender.md",
     "Gridfinity.md",
     "Ender 3 upgrades.md",
@@ -228,7 +215,6 @@
     "3D printing tools.md",
     "home server/Docker.md",
     "random yt video knowlege/how cracks work in general.md",
-    "ricing.md",
     "home server/NGINX.md",
     "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
@@ -243,7 +229,6 @@
     "Untitled.blend",
     "Untitled.blend@",
     "tags/3d modeling.md",
-    "tags/3d printing.md",
     "sources-resources",
     "tags",
     "random yt video knowlege",
