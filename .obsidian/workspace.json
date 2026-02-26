@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "quick ref.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -215,8 +215,9 @@
   },
   "active": "f916d3d9136e2da8",
   "lastOpenFiles": [
-    "readinglist.md",
+    "todo.md",
     "quick ref.md",
+    "readinglist.md",
     "neocities.md",
     "Macropad.md",
     "ideas.md",
@@ -231,7 +232,6 @@
     "home server/NGINX.md",
     "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
-    "todo.md",
     "SSL Certs + DNS.md",
     "home server/glance.md",
     "training.md",
