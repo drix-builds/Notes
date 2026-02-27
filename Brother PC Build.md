@@ -6,4 +6,3 @@ Storage: 512GB NVME SSD
 PSU: 750W
 
 
-
