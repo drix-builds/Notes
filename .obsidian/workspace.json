@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "150f6a28534750fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brother PC Build.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Brother PC Build"
+            }
+          },
+          {
             "id": "355ec742873ef2ce",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,15 +227,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "7ee106a7950ed62b",
+  "active": "150f6a28534750fc",
   "lastOpenFiles": [
+    "quick ref.md",
+    "Brother PC Build.md",
     "Computer specs.md",
     "home server/NGINX.md",
     "ideas.md",
     "Hyprland.md",
     "ricing.md",
     "readinglist.md",
-    "quick ref.md",
     "todo.md",
     "neocities.md",
     "Macropad.md",
@@ -241,7 +256,6 @@
     "tags/learning.md",
     "home server",
     "tags/projects.md",
-    "HomeServer.md",
     "Untitled.blend",
     "Untitled.blend@",
     "sources-resources",

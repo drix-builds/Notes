@@ -1,0 +1,4 @@
+CPU:
+RAM:
+GPU:
+CASE:
