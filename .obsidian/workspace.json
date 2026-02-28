@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "1e644154c235933d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "355ec742873ef2ce",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -227,7 +239,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "150f6a28534750fc",
+  "active": "1e644154c235933d",
   "lastOpenFiles": [
     "Brother PC Build.md",
     "quick ref.md",
