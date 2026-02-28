@@ -10,7 +10,7 @@ Thinkpad T490s
 
 Home PC
 - CPU: Ryzen 5 3600
-- RAM: 16GB
+- RAM: 16GB 3200mhz
 - GPU: NVIDIA RTX 3060 
 - Storage: 1tb NVME SSD, 2tb HDD, 1tb HDD
 

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brother PC Build.md",
+                "file": "Computer specs.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Brother PC Build"
+              "title": "Computer specs"
             }
           },
           {
@@ -229,8 +229,8 @@
   },
   "active": "150f6a28534750fc",
   "lastOpenFiles": [
-    "quick ref.md",
     "Brother PC Build.md",
+    "quick ref.md",
     "Computer specs.md",
     "home server/NGINX.md",
     "ideas.md",
