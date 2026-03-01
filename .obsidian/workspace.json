@@ -53,12 +53,14 @@
             "id": "1e644154c235933d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "Brother PC Build.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "Brother PC Build"
             }
           },
           {
