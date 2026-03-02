@@ -13,4 +13,4 @@ sudo pacman -Syu
 sudo dd if=/home/drix/Downloads/archlinux-2026.02.01-x86_64.iso of=/dev/sdc1 bs=4M status=progress oflag=sync
 
 
-sudo dd if=image.img of=/dev/sdX bs=4M status=progress && sync     
+sudo dd if=/home/drix/Downloads/zimaos-x86_64-1.5.4_installer.img of=/dev/sdX bs=4M status=progress && sync     
