@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Brother PC Build.md",
+                "file": "quick ref.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Brother PC Build"
+              "title": "quick ref"
             }
           },
           {
@@ -243,6 +243,7 @@
   },
   "active": "1e644154c235933d",
   "lastOpenFiles": [
+    "todo.md",
     "Brother PC Build.md",
     "quick ref.md",
     "Computer specs.md",
@@ -251,7 +252,6 @@
     "Hyprland.md",
     "ricing.md",
     "readinglist.md",
-    "todo.md",
     "neocities.md",
     "Macropad.md",
     "hotkeys for blender.md",
