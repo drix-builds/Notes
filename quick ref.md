@@ -12,5 +12,8 @@ sudo pacman -Syu
 ~/Desktop/j/zulu21.32.17-ca-fx-jre21.0.2-linux_x64/bin
 sudo dd if=/home/drix/Downloads/archlinux-2026.02.01-x86_64.iso of=/dev/sdc1 bs=4M status=progress oflag=sync
 
+java -Xms1024M -Xmx10240M @libraries/net/neoforged/neoforge/21.1.215/unix_args.txt nogui
+
 
 sudo dd if=/home/drix/Downloads/zimaos-x86_64-1.5.4_installer.img of=/dev/sdX bs=4M status=progress && sync     
+
