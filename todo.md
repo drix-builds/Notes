@@ -11,3 +11,4 @@
 - [x] clean room nd shower
 - [x] make daily routine in todoist
 - [ ] download and host all of wikipedia
+- [ ] rice dml + practice shortcutsa
