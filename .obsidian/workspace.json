@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11e1f3c7d0459341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "home server/NGINX.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "NGINX"
-            }
-          },
-          {
-            "id": "7ee106a7950ed62b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quick ref.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "quick ref"
-            }
-          },
-          {
-            "id": "150f6a28534750fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer specs.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Computer specs"
-            }
-          },
-          {
-            "id": "1e644154c235933d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "todo"
-            }
-          },
-          {
-            "id": "355ec742873ef2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ideas"
-            }
-          },
-          {
             "id": "77109664830780d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "baked oats.md",
+                "file": "breakfast sandwich.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "baked oats"
+              "title": "breakfast sandwich"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,9 +187,11 @@
   "active": "77109664830780d5",
   "lastOpenFiles": [
     "lock in/cooking.md",
-    "baked oats.md",
-    "lock in/gym.md",
+    "breakfast sandwich.md",
     "lock in/lock in.md",
+    "recipe/baked oats.md",
+    "recipe",
+    "lock in/gym.md",
     "lock in",
     "ideas.md",
     "todo.md",
@@ -283,7 +214,6 @@
     "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
     "SSL Certs + DNS.md",
-    "home server/glance.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",

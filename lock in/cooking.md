@@ -1,6 +1,6 @@
 breakfast
 - [[baked oats]]
-- breakfast sandwich
+- [[breakfast sandwich]]
 - coffee
 
 lunch
