@@ -1,5 +1,5 @@
 breakfast
-- baked oats
+- [[baked oats]]
 - breakfast sandwich
 - coffee
 

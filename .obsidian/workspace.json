@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lock in/cooking.md",
+                "file": "baked oats.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "cooking"
+              "title": "baked oats"
             }
           }
         ],
@@ -257,8 +257,9 @@
   },
   "active": "77109664830780d5",
   "lastOpenFiles": [
-    "lock in/gym.md",
     "lock in/cooking.md",
+    "baked oats.md",
+    "lock in/gym.md",
     "lock in/lock in.md",
     "lock in",
     "ideas.md",
@@ -283,7 +284,6 @@
     "home server/Home Server setup V1.md",
     "SSL Certs + DNS.md",
     "home server/glance.md",
-    "training.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
