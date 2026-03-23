@@ -1,6 +1,7 @@
 breakfast
 - baked oats
 - breakfast sandwich
+- coffee
 
 lunch
 - tuna sandwich 
@@ -9,4 +10,10 @@ lunch
 
 dinner
 - chicken gyro bowl
-- 
+- korean beef and rice
+- steak
+
+snacks
+- snack pack
+- apple
+- grapes
