@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "breakfast sandwich.md",
+                "file": "recipe/impossible_sausage_egg_cheese.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "breakfast sandwich"
+              "title": "impossible_sausage_egg_cheese"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "77109664830780d5",
   "lastOpenFiles": [
-    "lock in/cooking.md",
     "breakfast sandwich.md",
+    "recipe/impossible_sausage_egg_cheese.md",
+    "lock in/cooking.md",
     "lock in/lock in.md",
     "recipe/baked oats.md",
     "recipe",
@@ -213,7 +214,6 @@
     "random yt video knowlege/how cracks work in general.md",
     "home server/HomeServer.md",
     "home server/Home Server setup V1.md",
-    "SSL Certs + DNS.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
