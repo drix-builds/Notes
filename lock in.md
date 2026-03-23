@@ -17,6 +17,6 @@
 8:30PM
 	read something
 	shower
-9:30PM
+10:30PM
 	bedtime
 
