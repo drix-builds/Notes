@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lock in.md",
+                "file": "lock in/cooking.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "lock in"
+              "title": "cooking"
             }
           }
         ],
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5,
-    "collapsed": true
+    "width": 214.5
   },
   "right": {
     "id": "82d94b5ca9a6f8ac",
@@ -258,8 +257,11 @@
   },
   "active": "77109664830780d5",
   "lastOpenFiles": [
+    "lock in/gym.md",
+    "lock in/cooking.md",
+    "lock in/lock in.md",
+    "lock in",
     "ideas.md",
-    "lock in.md",
     "todo.md",
     "quick ref.md",
     "Brother PC Build.md",
@@ -282,8 +284,6 @@
     "SSL Certs + DNS.md",
     "home server/glance.md",
     "training.md",
-    "conflict-files-obsidian-git.md",
-    "tags/learning.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
