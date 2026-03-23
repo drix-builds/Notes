@@ -12,5 +12,11 @@
 	lunch
 	walk outside
 	cook food
-	
+7:00PM
+	dinner
+8:30PM
+	read something
+	shower
+9:30PM
+	bedtime
 
