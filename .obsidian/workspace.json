@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "ideas"
             }
+          },
+          {
+            "id": "77109664830780d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lock in.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "lock in"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -241,14 +255,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "355ec742873ef2ce",
+  "active": "77109664830780d5",
   "lastOpenFiles": [
+    "ideas.md",
+    "lock in.md",
     "todo.md",
     "quick ref.md",
     "Brother PC Build.md",
     "Computer specs.md",
     "home server/NGINX.md",
-    "ideas.md",
     "Hyprland.md",
     "ricing.md",
     "readinglist.md",
@@ -269,7 +284,6 @@
     "conflict-files-obsidian-git.md",
     "tags/learning.md",
     "home server",
-    "tags/projects.md",
     "Untitled.blend",
     "Untitled.blend@",
     "sources-resources",
