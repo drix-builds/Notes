@@ -8,4 +8,5 @@ lunch
 - leftovers
 
 dinner
+- chicken gyro bowl
 - 
