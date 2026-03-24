@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "impossible_sausage_egg_cheese"
             }
+          },
+          {
+            "id": "c0fa8c146cab849d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "77109664830780d5",
+  "active": "c0fa8c146cab849d",
   "lastOpenFiles": [
     "breakfast sandwich.md",
     "recipe/impossible_sausage_egg_cheese.md",
