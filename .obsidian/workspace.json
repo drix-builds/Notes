@@ -87,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c0fa8c146cab849d",
+  "active": "d509cc6c1a6b33d7",
   "lastOpenFiles": [
     "breakfast sandwich.md",
     "recipe/impossible_sausage_egg_cheese.md",
