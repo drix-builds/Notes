@@ -25,12 +25,14 @@
             "id": "c0fa8c146cab849d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "quick ref.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "quick ref"
             }
           }
         ],
@@ -87,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +199,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "d509cc6c1a6b33d7",
+  "active": "c0fa8c146cab849d",
   "lastOpenFiles": [
+    "neocities.md",
     "breakfast sandwich.md",
     "recipe/impossible_sausage_egg_cheese.md",
     "lock in/cooking.md",
@@ -217,7 +219,6 @@
     "Hyprland.md",
     "ricing.md",
     "readinglist.md",
-    "neocities.md",
     "Macropad.md",
     "hotkeys for blender.md",
     "Gridfinity.md",
