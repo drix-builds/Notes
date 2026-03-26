@@ -18,3 +18,4 @@ libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-server.jar
 
 sudo dd if=/home/drix/Downloads/zimaos-x86_64-1.5.4_installer.img of=/dev/sdX bs=4M status=progress && sync     
 
+dadfasdadfas
