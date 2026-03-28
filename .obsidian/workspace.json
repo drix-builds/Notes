@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quick ref.md",
+                "file": "lock in/gym.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "quick ref"
+              "title": "gym"
             }
           }
         ],
@@ -201,6 +201,7 @@
   },
   "active": "c0fa8c146cab849d",
   "lastOpenFiles": [
+    "quick ref.md",
     "neocities.md",
     "breakfast sandwich.md",
     "recipe/impossible_sausage_egg_cheese.md",
@@ -212,7 +213,6 @@
     "lock in",
     "ideas.md",
     "todo.md",
-    "quick ref.md",
     "Brother PC Build.md",
     "Computer specs.md",
     "home server/NGINX.md",
