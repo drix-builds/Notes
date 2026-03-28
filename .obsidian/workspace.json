@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lock in/gym.md",
+                "file": "quick ref.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "gym"
+              "title": "quick ref"
             }
           }
         ],
@@ -195,11 +195,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c0fa8c146cab849d",
   "lastOpenFiles": [
+    "readinglist.md",
+    "lock in/gym.md",
     "quick ref.md",
     "neocities.md",
     "breakfast sandwich.md",
@@ -208,7 +211,6 @@
     "lock in/lock in.md",
     "recipe/baked oats.md",
     "recipe",
-    "lock in/gym.md",
     "lock in",
     "ideas.md",
     "todo.md",
@@ -217,7 +219,6 @@
     "home server/NGINX.md",
     "Hyprland.md",
     "ricing.md",
-    "readinglist.md",
     "Macropad.md",
     "hotkeys for blender.md",
     "Gridfinity.md",
