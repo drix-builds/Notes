@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "quick ref"
             }
+          },
+          {
+            "id": "748d3dd946f6c92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyberdeck - ideas.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Cyberdeck - ideas"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,11 +213,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0fa8c146cab849d",
+  "active": "748d3dd946f6c92b",
   "lastOpenFiles": [
+    "quick ref.md",
+    "Cyberdeck - ideas.md",
+    "cyberdeck",
     "readinglist.md",
     "lock in/gym.md",
-    "quick ref.md",
     "neocities.md",
     "breakfast sandwich.md",
     "recipe/impossible_sausage_egg_cheese.md",
@@ -228,7 +244,6 @@
     "home server/Docker.md",
     "random yt video knowlege/how cracks work in general.md",
     "home server/HomeServer.md",
-    "home server/Home Server setup V1.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
