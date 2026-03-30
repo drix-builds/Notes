@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyberdeck - ideas.md",
+                "file": "cyberdeck/Cyberdeck - ideas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Cyberdeck - ideas"
             }
+          },
+          {
+            "id": "3ca8f364dd1d895e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading List.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Reading List"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,10 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "748d3dd946f6c92b",
+  "active": "3974fea58360cf14",
   "lastOpenFiles": [
+    "cyberdeck/Cyberdeck - ideas.md",
+    "Reading List.md",
     "quick ref.md",
-    "Cyberdeck - ideas.md",
     "cyberdeck",
     "readinglist.md",
     "lock in/gym.md",
@@ -243,7 +258,6 @@
     "3D printing tools.md",
     "home server/Docker.md",
     "random yt video knowlege/how cracks work in general.md",
-    "home server/HomeServer.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
