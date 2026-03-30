@@ -1,3 +1,4 @@
 - [ ] Butcher's Crossing
 - [ ] Blood Meridian
+- [ ] The Wild Palms
 - [ ] 
