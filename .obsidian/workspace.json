@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Reading List"
             }
+          },
+          {
+            "id": "d59087f3a71a1c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "satisfactory.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "satisfactory"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -227,10 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3974fea58360cf14",
+  "active": "d59087f3a71a1c94",
   "lastOpenFiles": [
-    "cyberdeck/Cyberdeck - ideas.md",
+    "satisfactory.md",
     "Reading List.md",
+    "cyberdeck/Cyberdeck - ideas.md",
     "quick ref.md",
     "cyberdeck",
     "readinglist.md",
@@ -257,7 +272,6 @@
     "Blender.md",
     "3D printing tools.md",
     "home server/Docker.md",
-    "random yt video knowlege/how cracks work in general.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
