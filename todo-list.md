@@ -5,3 +5,6 @@
 - [ ] print the case.stl for macropad, plan the structure for the inside
 - [ ] meal planning for upcoming weeks
 - [ ] gym split research
+- [ ] look into affinity suite for linux
+- [ ] [this](https://github.com/seapear/AffinityOnLinux?tab=readme-ov-file)
+- [ ] download and host all of wikipedia
