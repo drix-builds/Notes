@@ -9,11 +9,11 @@ tags: [[linux]]
     * hyprpaper.conf
         * wallpaper
             * ```js
-            {
-            monitor = DP-1
-            path = /home/drix/Pictures/Wallpapers/wallpaper.png
-            fit_mode = cover
-            }
+                {
+                monitor = DP-1
+                path = /home/drix/Pictures/Wallpapers/wallpaper.png
+                fit_mode = cover
+                }
               ```
 
     - autorun at start
