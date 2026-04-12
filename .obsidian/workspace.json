@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "smb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +131,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -241,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d59087f3a71a1c94",
+  "active": "d509cc6c1a6b33d7",
   "lastOpenFiles": [
     "todo-list.md",
     "ideas.md",
