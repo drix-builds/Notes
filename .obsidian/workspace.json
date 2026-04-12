@@ -34,51 +34,8 @@
               "icon": "lucide-file",
               "title": "quick ref"
             }
-          },
-          {
-            "id": "748d3dd946f6c92b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cyberdeck/Cyberdeck - ideas.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Cyberdeck - ideas"
-            }
-          },
-          {
-            "id": "3ca8f364dd1d895e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading List.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Reading List"
-            }
-          },
-          {
-            "id": "d59087f3a71a1c94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quick ref.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "quick ref"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "smb",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,8 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d509cc6c1a6b33d7",
+  "active": "77109664830780d5",
   "lastOpenFiles": [
+    "recipe/baked oats.md",
+    "recipe/impossible_sausage_egg_cheese.md",
+    "quick ref.md",
+    "cyberdeck/Cyberdeck - ideas.md",
+    "Reading List.md",
+    "tags/3d modeling.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "2026-04-12.md",
     "todo-list.md",
     "ideas.md",
     "Hyprland.md",
@@ -252,17 +217,12 @@
     "Blender.md",
     "3D printing tools.md",
     "satisfactory.md",
-    "Reading List.md",
-    "cyberdeck/Cyberdeck - ideas.md",
-    "quick ref.md",
     "cyberdeck",
     "readinglist.md",
     "lock in/gym.md",
     "neocities.md",
-    "recipe/impossible_sausage_egg_cheese.md",
     "lock in/cooking.md",
     "lock in/lock in.md",
-    "recipe/baked oats.md",
     "recipe",
     "lock in",
     "todo.md",
@@ -271,8 +231,6 @@
     "ricing.md",
     "Macropad.md",
     "hotkeys for blender.md",
-    "Gridfinity.md",
-    "Ender 3 upgrades.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
