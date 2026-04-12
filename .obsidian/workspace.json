@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo-list.md",
+                "file": "quick ref.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "todo-list"
+              "title": "quick ref"
             }
           }
         ],
@@ -243,6 +243,7 @@
   },
   "active": "d59087f3a71a1c94",
   "lastOpenFiles": [
+    "todo-list.md",
     "ideas.md",
     "Hyprland.md",
     "Brother PC Build.md",
@@ -250,7 +251,6 @@
     "Blender.md",
     "3D printing tools.md",
     "satisfactory.md",
-    "todo-list.md",
     "Reading List.md",
     "cyberdeck/Cyberdeck - ideas.md",
     "quick ref.md",
