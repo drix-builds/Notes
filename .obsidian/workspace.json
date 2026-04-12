@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "satisfactory.md",
-                "mode": "source",
+                "file": "todo-list.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "satisfactory"
+              "title": "todo-list"
             }
           }
         ],
@@ -243,7 +243,14 @@
   },
   "active": "d59087f3a71a1c94",
   "lastOpenFiles": [
+    "ideas.md",
+    "Hyprland.md",
+    "Brother PC Build.md",
+    "breakfast sandwich.md",
+    "Blender.md",
+    "3D printing tools.md",
     "satisfactory.md",
+    "todo-list.md",
     "Reading List.md",
     "cyberdeck/Cyberdeck - ideas.md",
     "quick ref.md",
@@ -251,27 +258,20 @@
     "readinglist.md",
     "lock in/gym.md",
     "neocities.md",
-    "breakfast sandwich.md",
     "recipe/impossible_sausage_egg_cheese.md",
     "lock in/cooking.md",
     "lock in/lock in.md",
     "recipe/baked oats.md",
     "recipe",
     "lock in",
-    "ideas.md",
     "todo.md",
-    "Brother PC Build.md",
     "Computer specs.md",
     "home server/NGINX.md",
-    "Hyprland.md",
     "ricing.md",
     "Macropad.md",
     "hotkeys for blender.md",
     "Gridfinity.md",
     "Ender 3 upgrades.md",
-    "Blender.md",
-    "3D printing tools.md",
-    "home server/Docker.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
