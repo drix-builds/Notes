@@ -1,4 +1,4 @@
-- [ ] look up chris byles **by 4.13**
+- [x] look up chris byles **by 4.13**
 - [ ] powershell functions/automate users in AD **by 4.13**
 - [ ] COMPtia A+ brush up **by 4.13**
 - [ ] bash scripting / python code breakdowns **by 4.13**
