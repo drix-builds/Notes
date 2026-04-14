@@ -16,4 +16,11 @@ Steps:
 		- Subnet Mast: 255.255.255.0
 		- Gateway: None
 		- DNS: 192.168.40.10
-	- 
+3. Install AD
+	1. Command to install the AD Domain services
+		- Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
+	2. Command to promote the server to a domain controller
+		- Install-ADDSForest -DomainName "mylab.local" -CreateDnsDelegation:$false -DomainNetBiosName "mylab" -InstallDns:$true
+4. Bulk import Users, Groups & OUs
+	1. Bulk OUs (Orginizational Units)
+		1. copy the pr
