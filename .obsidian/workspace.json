@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Setting up an AD environment"
             }
+          },
+          {
+            "id": "d9741da87476697b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VLANS.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "VLANS"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,11 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0fa8c146cab849d",
+  "active": "d9741da87476697b",
   "lastOpenFiles": [
+    "Active Directory/Setting up an AD environment.md",
+    "VLANS.md",
     "Pasted image 20260413220610.png",
     "quick ref.md",
-    "Active Directory/Setting up an AD environment.md",
     "Active Directory",
     "recipe/impossible_sausage_egg_cheese.md",
     "recipe/baked oats.md",
