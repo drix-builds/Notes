@@ -6,3 +6,12 @@
 - to diagnose the issue i used a link runner on the port
 - from that i was able to gather that the port may have not been punched down correctly upon installation. 
 - to remedy this i had to connect to the adjacent unassigned port and reconnect it in the network room to reassign it. as per instruction from our network admin. 
+
+### Hardware
+- A user put an issue in where her docking station did not work. 
+- The helpdesk described it as "missing docking station" and customer confirmed
+- Upon reaching location the customer did in fact have a docking station but that unit had a couple issues with the way it was installed
+	- The USB-C connection must be connected from the back of the docking station where the "computer" icon is.
+	- The second monitor was missing a display port connection
+	- and the display settings needed to be changed to "extend" and "show display" for the secondary monitor
+- 
