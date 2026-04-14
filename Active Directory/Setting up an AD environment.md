@@ -23,4 +23,11 @@ Steps:
 		- Install-ADDSForest -DomainName "mylab.local" -CreateDnsDelegation:$false -DomainNetBiosName "mylab" -InstallDns:$true
 4. Bulk import Users, Groups & OUs
 	1. Bulk OUs (Orginizational Units)
-		1. copy the pr
+		1. copy the scripts to c:/it in the domain controller
+		2. run create_ous.ps1
+	2. Bulk Groups
+		1. run create_groups.ps1
+	3. Bulk Users
+		1. run create_users.ps1
+5. Join computer to the domain
+6. 
