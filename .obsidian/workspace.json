@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipe/impossible_sausage_egg_cheese.md",
+                "file": "quick ref.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "impossible_sausage_egg_cheese"
+              "title": "quick ref"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quick ref.md",
+                "file": "Active Directory/Setting up an AD environment.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "quick ref"
+              "title": "Setting up an AD environment"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,11 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77109664830780d5",
+  "active": "c0fa8c146cab849d",
   "lastOpenFiles": [
-    "recipe/baked oats.md",
-    "recipe/impossible_sausage_egg_cheese.md",
     "quick ref.md",
+    "Active Directory/Setting up an AD environment.md",
+    "Active Directory",
+    "recipe/impossible_sausage_egg_cheese.md",
+    "recipe/baked oats.md",
     "cyberdeck/Cyberdeck - ideas.md",
     "Reading List.md",
     "tags/3d modeling.md",
@@ -230,13 +233,11 @@
     "home server/NGINX.md",
     "ricing.md",
     "Macropad.md",
-    "hotkeys for blender.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
     "sources-resources",
     "tags",
-    "random yt video knowlege",
     "Pasted image 20260111201317.png"
   ]
 }
