@@ -3,3 +3,4 @@ logically connected regardless of location
 vlan creates seperate virtual networks
 simplicity 
 traffic
+seperate department network traffic 

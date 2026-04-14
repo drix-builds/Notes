@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "VLANS"
             }
+          },
+          {
+            "id": "c8389331a9aaa95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting Examples.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Troubleshooting Examples"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -213,10 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9741da87476697b",
+  "active": "c8389331a9aaa95b",
   "lastOpenFiles": [
-    "Active Directory/Setting up an AD environment.md",
     "VLANS.md",
+    "Troubleshooting Examples.md",
+    "Active Directory/Setting up an AD environment.md",
     "Pasted image 20260413220610.png",
     "quick ref.md",
     "Active Directory",
@@ -247,7 +262,6 @@
     "todo.md",
     "Computer specs.md",
     "home server/NGINX.md",
-    "ricing.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
