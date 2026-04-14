@@ -5,7 +5,7 @@
 - attempted to move the phone over to a different pc, the phone then registered and the pc was online when piggy-backing off the phone
 - to diagnose the issue i used a link runner on the port
 - from that i was able to gather that the port may have not been punched down correctly upon installation. 
-- to remedy this i had to connect to the adjacent unassigned port and reconnect it in the network room to reassign it. as per instruction from our network admin. 
+- to remedy this i contacted the network administrator and got the go ahead to plug the phone into the adjacent port and move it over to the same port from the switch itself in the network room.
 
 ### Hardware
 - A user put an issue in where her docking station did not work. 
@@ -14,4 +14,4 @@
 	- The USB-C connection must be connected from the back of the docking station where the "computer" icon is.
 	- The second monitor was missing a display port connection
 	- and the display settings needed to be changed to "extend" and "show display" for the secondary monitor
-- 
+- After all of these steps were completed the user had a functioning docking station
