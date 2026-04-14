@@ -37,4 +37,7 @@
 		1. run create_users.ps1
 5. **Join computer to the domain**
 	1. Download windows 10 iso
-	2. add it to Virtual Box in the same way as
+	2. add it to Virtual Box in the same way as before
+	3. keep the following settings
+		- ![[Pasted image 20260413220610.png]]
+		- 

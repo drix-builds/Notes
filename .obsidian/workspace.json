@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Active Directory/Setting up an AD environment.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -201,6 +201,7 @@
   },
   "active": "c0fa8c146cab849d",
   "lastOpenFiles": [
+    "Pasted image 20260413220610.png",
     "quick ref.md",
     "Active Directory/Setting up an AD environment.md",
     "Active Directory",
@@ -232,7 +233,6 @@
     "Computer specs.md",
     "home server/NGINX.md",
     "ricing.md",
-    "Macropad.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
