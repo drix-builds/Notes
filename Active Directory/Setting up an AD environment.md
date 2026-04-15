@@ -20,11 +20,11 @@
 		- DNS: 192.168.40.10
 3. **Install AD**
 	1. Command to install the AD Domain services
-		- ```ps
+		- ```powershell
 		  Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
 		  ```
 	2. Command to promote the server to a domain controller
-		- ```ps
+		- ```powershell
 		  Install-ADDSForest -DomainName "mylab.local" -CreateDnsDelegation:$false -DomainNetBiosName "mylab" -InstallDns:$true
 		  ```
 4. **Bulk import Users, Groups & OUs**
