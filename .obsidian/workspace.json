@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home server/Home Server setup V1.md",
+                "file": "ideas.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Home Server setup V1"
+              "title": "ideas"
             }
           },
           {
@@ -200,6 +200,7 @@
   },
   "active": "77109664830780d5",
   "lastOpenFiles": [
+    "home server/Home Server setup V1.md",
     "recipe/impossible_sausage_egg_cheese.md",
     "VLANS.md",
     "Troubleshooting Examples.md",
@@ -232,7 +233,6 @@
     "lock in",
     "todo.md",
     "Computer specs.md",
-    "home server/NGINX.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
