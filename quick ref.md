@@ -15,7 +15,7 @@ java -Xms1024M -Xmx10240M @libraries/net/neoforged/neoforge/21.1.215/unix_args.t
 libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-server.jar
 
 ### iso
-sudo dd if=/home/drix/Downloads/zimaos-x86_64-1.5.4_installer.img of=/dev/sdX bs=4M status=progress && sync     
+sudo dd if=/home/drix/Downloads/proxmox-ve_9.1-1.iso of=/dev/s bs=4M status=progress && sync     
 
 ### reference pages
 - http://showthedocs.com/

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
-                "mode": "preview",
+                "file": "quick ref.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "quick ref"
             }
           },
           {
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,6 +201,11 @@
   },
   "active": "77109664830780d5",
   "lastOpenFiles": [
+    "ideas.md",
+    "plant position diagram.png",
+    "home server/home server setup V2.md",
+    "home server/Garden setup.md",
+    "Garden lab Ideas.md",
     "home server/Home Server setup V1.md",
     "recipe/impossible_sausage_egg_cheese.md",
     "VLANS.md",
@@ -216,7 +222,6 @@
     "Untitled.canvas",
     "2026-04-12.md",
     "todo-list.md",
-    "ideas.md",
     "Hyprland.md",
     "Brother PC Build.md",
     "breakfast sandwich.md",
@@ -227,12 +232,8 @@
     "readinglist.md",
     "lock in/gym.md",
     "neocities.md",
-    "lock in/cooking.md",
-    "lock in/lock in.md",
     "recipe",
     "lock in",
-    "todo.md",
-    "Computer specs.md",
     "home server",
     "Untitled.blend",
     "Untitled.blend@",
