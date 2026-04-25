@@ -21,3 +21,5 @@ sudo dd if=/home/drix/Downloads/proxmox-ve_9.1-1.iso of=/dev/sdb1 bs=4M status=p
 - http://showthedocs.com/
 - linuxcaommand.org
 - https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.6 
+
+[download cisco packet tracer](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
