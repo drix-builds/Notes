@@ -1,2 +1,4 @@
-metadata cleaner: musicbrainz picard
-streaming: plexamp
+ - metadata cleaner: musicbrainz picard
+ - streaming: plexamp
+### Dicovery
+- 
