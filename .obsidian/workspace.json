@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prox Mox.md",
+                "file": "home server/Music.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prox Mox"
+              "title": "Music"
             }
           },
           {
@@ -215,8 +215,9 @@
   },
   "active": "5dcaa9bd7a961ca3",
   "lastOpenFiles": [
-    "VLANS.md",
     "Prox Mox.md",
+    "home server/Music.md",
+    "VLANS.md",
     "Untitled.canvas",
     "Untitled.base",
     "Troubleshooting Examples.md",
@@ -246,7 +247,6 @@
     "satisfactory.md",
     "cyberdeck",
     "lock in/gym.md",
-    "neocities.md",
     "recipe",
     "lock in",
     "home server",
