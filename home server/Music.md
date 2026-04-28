@@ -1,6 +1,6 @@
  - metadata cleaner: musicbrainz picard
  - streaming: plexamp
 ### Dicovery
-- listenbrains
+- listenbrainz
 - Explo downloader
 - 
