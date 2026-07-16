@@ -6,4 +6,11 @@
 - [ ] rice
 - [ ] cheese
 - [ ] vegetable broth
+- [ ] furikake
+- [ ] seaweed
+- [ ] oatmeal
+- [ ] nutitional yeast
+- [ ] chickpeas
+- [ ] potatoes
+- [ ] hummus
 - [ ] 
