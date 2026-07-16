@@ -21,4 +21,6 @@
 - [ ] potatoes au gratin
 - [ ] guac
 - [ ] brothy beans hmm
+- [ ] peanuts
+- [ ] raisins 
 - [ ] 
