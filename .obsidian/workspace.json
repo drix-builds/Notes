@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home server/Music.md",
+                "file": "food ideas.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Music"
+              "title": "food ideas"
             }
           },
           {
@@ -215,8 +215,10 @@
   },
   "active": "5dcaa9bd7a961ca3",
   "lastOpenFiles": [
-    "Prox Mox.md",
     "home server/Music.md",
+    "food ideas.md",
+    "slimescience.md",
+    "Prox Mox.md",
     "VLANS.md",
     "Untitled.canvas",
     "Untitled.base",
@@ -244,9 +246,7 @@
     "breakfast sandwich.md",
     "Blender.md",
     "3D printing tools.md",
-    "satisfactory.md",
     "cyberdeck",
-    "lock in/gym.md",
     "recipe",
     "lock in",
     "home server",
