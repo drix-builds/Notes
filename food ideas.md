@@ -13,4 +13,5 @@
 - [ ] chickpeas
 - [ ] potatoes
 - [ ] hummus
-- [ ] 
+- [ ] peanut butter and dates
+- [ ] pb
