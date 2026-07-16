@@ -14,4 +14,11 @@
 - [ ] potatoes
 - [ ] hummus
 - [ ] peanut butter and dates
-- [ ] pb
+- [ ] pb&j
+- [ ] pbj oat bar
+- [ ] breakfast burrito
+- [ ] japanese curry
+- [ ] potatoes au gratin
+- [ ] guac
+- [ ] brothy beans hmm
+- [ ] 
