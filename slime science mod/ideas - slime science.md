@@ -12,4 +12,4 @@
 	- slime fossils make strong tools
 - slime milker
 	- slimes get put in and it generates slime drops
-	- slimes slowly die and must be replaced :
+	- slimes slowly die and must be replaced :(
