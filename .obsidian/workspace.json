@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "71e97f5142c75b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "slime science mod/ideas - slime science.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ideas - slime science"
+            }
+          },
+          {
             "id": "c0fa8c146cab849d",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dcaa9bd7a961ca3",
+  "active": "71e97f5142c75b04",
   "lastOpenFiles": [
-    "home server/Music.md",
+    "Gridfinity.md",
+    "slime science mod/ideas - slime science.md",
+    "slime science mod",
+    "ideas.md",
     "food ideas.md",
+    "home server/Music.md",
     "slimescience.md",
     "Prox Mox.md",
     "VLANS.md",
@@ -226,7 +244,6 @@
     "Reading List.md",
     "readinglist.md",
     "quick ref.md",
-    "ideas.md",
     "plant position diagram.png",
     "home server/home server setup V2.md",
     "home server/Garden setup.md",
@@ -244,8 +261,6 @@
     "Hyprland.md",
     "Brother PC Build.md",
     "breakfast sandwich.md",
-    "Blender.md",
-    "3D printing tools.md",
     "cyberdeck",
     "recipe",
     "lock in",
@@ -253,7 +268,6 @@
     "Untitled.blend",
     "Untitled.blend@",
     "sources-resources",
-    "tags",
     "Pasted image 20260111201317.png"
   ]
 }

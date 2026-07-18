@@ -1,0 +1,9 @@
+- slime gun
+- elemental slimes
+	- fire slimes
+	- earth slimes
+	- water slimes
+	- ice slimes
+- ancient slime fossil (ore)
+	- needed to make the gun
+- 
