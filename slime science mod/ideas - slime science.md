@@ -5,5 +5,11 @@
 	- water slimes
 	- ice slimes
 - ancient slime fossil (ore)
-	- needed to make the gun
-- 
+	- needed to make the gun and other tools
+	- looks cool
+- slime tools
+	- elemental swords
+	- slime fossils make strong tools
+- slime milker
+	- slimes get put in and it generates slime drops
+	- slimes slowly die and must be replaced :
