@@ -15,7 +15,7 @@ java -Xms1024M -Xmx10240M @libraries/net/neoforged/neoforge/21.1.215/unix_args.t
 libraries/net/neoforged/neoforge/21.1.215/neoforge-21.1.215-server.jar
 
 ### iso
-sudo dd if=/home/drix/Downloads/proxmox-ve_9.1-1.iso of=/dev/sdb1 bs=4M status=progress && sync     
+sudo dd if=/home/drix/Downloads/bazzite-stable-live-amd64.iso of=/dev/sdb1 bs=4M status=progress && sync     
 
 ### reference pages
 - http://showthedocs.com/
