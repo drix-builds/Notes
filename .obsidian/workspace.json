@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slime science mod/ideas - slime science.md",
+                "file": "quick ref.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ideas - slime science"
+              "title": "quick ref"
             }
           },
           {
@@ -84,7 +84,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -96,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dd",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +119,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,8 +232,8 @@
   },
   "active": "71e97f5142c75b04",
   "lastOpenFiles": [
-    "Gridfinity.md",
     "slime science mod/ideas - slime science.md",
+    "Gridfinity.md",
     "slime science mod",
     "ideas.md",
     "food ideas.md",
