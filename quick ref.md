@@ -23,3 +23,5 @@ sudo dd if=/home/drix/Downloads/bazzite-stable-live-amd64.iso of=/dev/sdb1 bs=4M
 - https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.6 
 
 [download cisco packet tracer](https://www.netacad.com/resources/lab-downloads?courseLang=en-US)
+
+sudo dd if=/home/drix/Downloads/bazzite-stable-live-amd64.iso of=/dev/sdb1 bs=4M status=progress oflag=sync   
