@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ba12343f2c9e3816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "etwork basics.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "etwork basics"
+            }
+          },
+          {
             "id": "5dcaa9bd7a961ca3",
             "type": "leaf",
             "state": {
@@ -63,7 +77,8 @@
               "title": "quick ref"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,8 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77109664830780d5",
+  "active": "ba12343f2c9e3816",
   "lastOpenFiles": [
+    "3D printing tools.md",
+    "etwork basics.md",
     "VLANS.md",
     "quick ref.md",
     "slime science mod/ideas - slime science.md",
@@ -260,8 +277,6 @@
     "2026-04-12.md",
     "todo-list.md",
     "Hyprland.md",
-    "Brother PC Build.md",
-    "breakfast sandwich.md",
     "cyberdeck",
     "recipe",
     "lock in",
