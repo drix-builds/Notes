@@ -11,6 +11,8 @@ goals:
 3. fast examples of network issues and underlying causes we dive into
 4. transistion into OSI model
 
+##### How 
+
 ## OSI model
 1. 7 layer osi model
 	1. Application 
