@@ -23,16 +23,17 @@ goals:
 	4. Transport
 		1. End-to-end connetinons and reliability
 	5. Network
-		1. path destination and IP
+		1. path destination 
 	6. Datalink
 		1. Layer 2
 		2. The "Local Network" Layer
-		3. provides hop-to-hop deliv
+		3. provides hop-to-hop delivery of messages tthrough a local network
+			1. "hop" - one step along the bath between 2 devices
 		4. MAC and LLC (Physical Addressing)
 		5. 
 	7. Physical 
 		1. Layer 1
-		2. Media, Signal, and Binary Transmission
+		2. Transmits raw bits over the physucal medium
 		3. Cabels, NICS, radios, and antennas
 		4. common failures:
 			1. not plugged in

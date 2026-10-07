@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network Basics V1.2.md",
+                "file": "Significantly more advanced Network Basics V1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Network Basics V1.2"
+              "title": "Significantly more advanced Network Basics V1"
             }
           },
           {
@@ -245,8 +245,9 @@
   },
   "active": "ba12343f2c9e3816",
   "lastOpenFiles": [
+    "satisfactory.md",
+    "Significantly more advanced Network Basics V1.md",
     "neocities.md",
-    "Network Basics V1.2.md",
     "3D printing tools.md",
     "VLANS.md",
     "quick ref.md",
@@ -276,7 +277,6 @@
     "cyberdeck/Cyberdeck - ideas.md",
     "tags/3d modeling.md",
     "2026-04-12.md",
-    "todo-list.md",
     "cyberdeck",
     "recipe",
     "lock in",
