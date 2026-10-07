@@ -15,12 +15,14 @@ goals:
 1. 7 layer osi model
 	1. Application 
 		1. Where humans and computers interact, applications access network services
-		2. Web browsers and email clients rely on this layer to initiante communications 
-		3. HTTP,DNS,SMTP
+		2. Web browsers and email clients rely on this layer to initiante communications
+		3. Client software programs are not part of the application layer in their entirety 
+		4. Protocols: HTTP,DNS,SMTP
 	2. Presentation 
-		1. Ensures that daya is in a usable format and is where daya encryption occurs
+		1.  Prepares  dataso that it is in a usable format for the application layer and is where data encryption occurs
 	3. Session
 		1. Maintians connections and is responsible for controlling ports and sessions
+		2. layer 6 is responsible for adding the encryption on the sender's end as well as decoding the encryption
 	4. Transport
 		1. Transmits data using transmission protocols including TCP and UDP
 	5. Network
