@@ -12,7 +12,7 @@ goals:
 4. transistion into OSI model
 
 ##### How does a network work?
-At it's most base level a network is a way for devices to communicate with each other. Whether it be opening apps to doom scroll, opening Oracle to clock in 5 minutes early, or even launching Teams to catch up on the latest service that is currently on fire (hopefully metaphorically). Networks  
+At it's most base level a network is a way for devices to communicate with each other. Whether it be opening apps to doom scroll, opening Oracle to clock in 5 minutes early, or even launching Teams to catch up on the latest service that is currently on fire (hopefully metaphorically). Networks play the main role in getting that information to your eyeballs. It does this by taking the smallest modecum of data, packaging it properly for a safe trip, confirming the destination, then sending it home. This process is what the OSI model does. That will be the first portion we dive into today.  
 
 ## OSI model
 1. 7 layer osi model
