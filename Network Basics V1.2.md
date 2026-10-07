@@ -13,14 +13,5 @@ goals:
 
 ## OSI model
 1. 7 layer osi model
-	1. application
-		1. software on client side 
-		2. how that software interacts with servers to recieve information 
-		3. HTTP, DNS, SMTP
-	2. presentation
-		1. formatting packets, en
-	3. session
-	4. transport
-	5. network 
-	6. data link
-	7. physical
+	1. Application - 
+	2. 
