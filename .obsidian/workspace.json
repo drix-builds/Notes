@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prox Mox.md",
+                "file": "breakfast sandwich.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Prox Mox"
+              "title": "breakfast sandwich"
             }
           },
           {
@@ -245,9 +245,9 @@
   },
   "active": "ba12343f2c9e3816",
   "lastOpenFiles": [
+    "Prox Mox.md",
     "Troubleshooting Examples V1.md",
     "training.md",
-    "Prox Mox.md",
     "Network Basics ++ 1.0.md",
     "Pasted image 20260413220610.png",
     "satisfactory.md",
