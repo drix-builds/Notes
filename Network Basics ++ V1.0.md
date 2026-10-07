@@ -11,7 +11,8 @@ goals:
 3. fast examples of network issues and underlying causes we dive into
 4. transistion into OSI model
 
-##### How 
+##### How does a network work?
+At it's most base level a network is a way for devices to communicate with each other. Whether it be opening apps to doom scroll, opening Oracle to clock in 5 minutes early, or even launching Teams to catch up on the latest service that is currently on fire (hopefully metaphorically). Networks  
 
 ## OSI model
 1. 7 layer osi model
