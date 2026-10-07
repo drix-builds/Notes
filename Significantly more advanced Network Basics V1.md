@@ -19,10 +19,11 @@ goals:
 		3. Client software programs are not part of the application layer in their entirety 
 		4. Protocols: HTTP,DNS,SMTP
 	2. Presentation 
-		1.  Prepares  dataso that it is in a usable format for the application layer and is where data encryption occurs
+		1.  Layer 6 - responsible for adding the encryption on the sender's end as well as decoding the encryption on the receiver's end. 
+		2. Also responsible for compressing data it receives from the application layer before delivering it to layer 5 (Session). This minimizes the amount of daya that will be transferred, thus improving the speed of communication. 
 	3. Session
 		1. Maintians connections and is responsible for controlling ports and sessions
-		2. layer 6 is responsible for adding the encryption on the sender's end as well as decoding the encryption
+		2. 
 	4. Transport
 		1. Transmits data using transmission protocols including TCP and UDP
 	5. Network
