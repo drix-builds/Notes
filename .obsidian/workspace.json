@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Troubleshooting Examples V1.md",
+                "file": "Prox Mox.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Troubleshooting Examples V1"
+              "title": "Prox Mox"
             }
           },
           {
@@ -245,8 +245,8 @@
   },
   "active": "ba12343f2c9e3816",
   "lastOpenFiles": [
-    "training.md",
     "Troubleshooting Examples V1.md",
+    "training.md",
     "Prox Mox.md",
     "Network Basics ++ 1.0.md",
     "Pasted image 20260413220610.png",
