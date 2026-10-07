@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "breakfast sandwich.md",
+                "file": "Network Basics ++ 1.0.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "breakfast sandwich"
+              "title": "Network Basics ++ 1.0"
             }
           },
           {
@@ -245,6 +245,8 @@
   },
   "active": "ba12343f2c9e3816",
   "lastOpenFiles": [
+    "Brother PC Build.md",
+    "breakfast sandwich.md",
     "Prox Mox.md",
     "Troubleshooting Examples V1.md",
     "training.md",
@@ -275,8 +277,6 @@
     "Active Directory/Setting up an AD environment.md",
     "Active Directory",
     "recipe/baked oats.md",
-    "cyberdeck/Cyberdeck - ideas.md",
-    "tags/3d modeling.md",
     "cyberdeck",
     "recipe",
     "lock in",
