@@ -15,7 +15,8 @@ goals:
 1. 7 layer osi model
 	1. Application 
 		1. Where humans and computers interact, applications access network services
-		2. HTTP,DNS,SMTP
+		2. Web browsers and email clients rely on this layer to initiante communications 
+		3. HTTP,DNS,SMTP
 	2. Presentation 
 		1. Ensures that daya is in a usable format and is where daya encryption occurs
 	3. Session
@@ -41,3 +42,4 @@ goals:
 			3. exposed copper 
 
 Sources: 
+- [Cloudflare: What is the OSI Model?](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
