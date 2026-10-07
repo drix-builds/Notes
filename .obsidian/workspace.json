@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etwork basics.md",
+                "file": "Network Basics V1.2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "etwork basics"
+              "title": "Network Basics V1.2"
             }
           },
           {
@@ -245,8 +245,9 @@
   },
   "active": "ba12343f2c9e3816",
   "lastOpenFiles": [
+    "neocities.md",
+    "Network Basics V1.2.md",
     "3D printing tools.md",
-    "etwork basics.md",
     "VLANS.md",
     "quick ref.md",
     "slime science mod/ideas - slime science.md",
@@ -276,7 +277,6 @@
     "tags/3d modeling.md",
     "2026-04-12.md",
     "todo-list.md",
-    "Hyprland.md",
     "cyberdeck",
     "recipe",
     "lock in",
