@@ -14,16 +14,16 @@ goals:
 ## OSI model
 1. 7 layer osi model
 	1. Application 
-		1. network process to application
+		1. Where humans and computers interact, applications access network services
 		2. HTTP,DNS,SMTP
 	2. Presentation 
-		1. Data representation and encryption
+		1. Ensures that daya is in a usable format and is where daya encryption occurs
 	3. Session
-		1. Inter host
+		1. Maintians connections and is responsible for controlling ports and sessions
 	4. Transport
-		1. End-to-end connetinons and reliability
+		1. Transmits data using transmission protocols including TCP and UDP
 	5. Network
-		1. path destination 
+		1. Decides which phusical path the daya will take
 	6. Datalink
 		1. Layer 2
 		2. The "Local Network" Layer
@@ -39,3 +39,5 @@ goals:
 			1. not plugged in
 			2. faulty cabling
 			3. exposed copper 
+
+Sources: 
