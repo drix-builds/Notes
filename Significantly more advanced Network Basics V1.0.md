@@ -46,3 +46,4 @@ goals:
 
 Sources: 
 - [Cloudflare: What is the OSI Model?](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/)
+- [Cisco: How does a computer network work?](https://www.cisco.com/site/us/en/learn/topics/networking/what-is-computer-networking.html)

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Significantly more advanced Network Basics V1.md",
+                "file": "Significantly more advanced Network Basics V1.0.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Significantly more advanced Network Basics V1"
+              "title": "Significantly more advanced Network Basics V1.0"
             }
           },
           {
@@ -246,7 +246,7 @@
   "active": "ba12343f2c9e3816",
   "lastOpenFiles": [
     "satisfactory.md",
-    "Significantly more advanced Network Basics V1.md",
+    "Significantly more advanced Network Basics V1.0.md",
     "neocities.md",
     "3D printing tools.md",
     "VLANS.md",
