@@ -25,6 +25,16 @@ goals:
 	5. Network
 		1. path destination and IP
 	6. Datalink
-		1. MAC and LLC (Physical Addressing)
+		1. Layer 2
+		2. The "Local Network" Layer
+		3. provides hop-to-hop deliv
+		4. MAC and LLC (Physical Addressing)
+		5. 
 	7. Physical 
-		1. Media,Signal and Binary Transmission
+		1. Layer 1
+		2. Media, Signal, and Binary Transmission
+		3. Cabels, NICS, radios, and antennas
+		4. common failures:
+			1. not plugged in
+			2. faulty cabling
+			3. exposed copper 
